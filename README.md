@@ -3,14 +3,10 @@
 **Web Application Developer | PHP, Laravel, Vue.js**  
 📍 Dhaka, Bangladesh  
 📧 [saidulidb27@gmail.com](mailto:saidulidb27@gmail.com) | 📞 +8801750975175  
-
 ---
-
 ## 🎯 Objective
 Detail-oriented and proactive Application Developer skilled in PHP, Laravel, and Vue.js. Known for dedication to quality and teamwork, aiming to contribute effectively to organizational goals.
-
 ---
-
 ## 🛠️ Technical Skills
 
 - **Languages:** PHP, JavaScript, PL/SQL
@@ -19,9 +15,7 @@ Detail-oriented and proactive Application Developer skilled in PHP, Laravel, and
 - **Databases:** MySQL, Oracle
 - **Version Control:** GitHub, GitLab
 - **Hosting Platforms:** Linux Server, AWS, cPanel
-
 ---
-
 ## 📚 Professional Courses
 
 - **Web Presence Solution and Implementation**  
@@ -29,9 +23,7 @@ Detail-oriented and proactive Application Developer skilled in PHP, Laravel, and
 
 - **Mastering Vue.js**  
   - Ostad Online Platform.
-
 ---
-
 ## 🚀 Projects
 
 - HRM & Payroll System
@@ -40,11 +32,8 @@ Detail-oriented and proactive Application Developer skilled in PHP, Laravel, and
 - Microfinance Yearly Planning
 - Quality Control Management for Textile
 - Payment Gateway Operation Panel
-
 ---
-
 ## 💼 Work Experience
-
 **Sr. Software Engineer**  
 *ShurjoMukhi Limited (shurjoPay)*  
 *January 2024 – Present*  
@@ -64,35 +53,23 @@ Oversaw MIS operations and contributed to IT infrastructure improvements.
 *BDG | MAGURA GROUP*  
 *August 2016 – September 2017*  
 Developed ERP software, created documentation, and conducted testing.
-
 ---
-
 ## 🎓 Education
-
 - **MBS** in Accounting – Govt. Titumir College, National University (2012)
 - **BBS** in Accounting – Govt. Titumir College, National University (2011)
 - **HSC** in Business Studies – Dhaka Imperial College, Dhaka Board (2006)
 - **SSC** in Science – Majlishpur High School, Dhaka Board (2004)
-
 ---
-
 ## 🌐 Languages
-
 - **Bangla** - Native  
 - **English** - Professional working proficiency  
-
 ---
-
 ## 📇 References
-
 - **Golam Rahman Matin**  
   Database Administrator, IT Consultants Limited  
   📧 [matin0843@gmail.com](mailto:matin0843@gmail.com) | 📞 +8801816362874
-
 - **Sanaullah Asif**  
  Team Lead, ShurjoMukhi Limited  
   📧 [asif@shurjomukhi.com.bd](mailto:asif@shurjomukhi.com.bd) | 📞 +8801818482731
-
 ---
-
 Thank you for visiting my profile! Feel free to reach out to discuss potential collaborations or opportunities.
