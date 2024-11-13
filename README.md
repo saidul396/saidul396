@@ -43,36 +43,10 @@ Detail-oriented and proactive Application Developer skilled in PHP, Laravel, and
 
 ---
 
-## 💼 Work Experience
-
-**Sr. Software Engineer**  
-*ShurjoMukhi Limited (shurjoPay)*  
-*January 2024 – Present*  
-Leading software development initiatives, focusing on scalable and secure solutions.
-
-**Software Engineer**  
-*Center for Development Innovation and Practices (CDIP)*  
-*October 2019 – March 2023*  
-Developed core applications and provided technical guidance.
-
-**Sr. Executive (MIS & IT)**  
-*Edison Electronics Ltd.*  
-*September 2017 – August 2019*  
-Oversaw MIS operations and contributed to IT infrastructure improvements.
-
-**Jr. Programmer (PHP)**  
-*BDG | MAGURA GROUP*  
-*August 2016 – September 2017*  
-Developed ERP software, created documentation, and conducted testing.
-
----
-
 ## 🎓 Education
 
 - **MBS** in Accounting – Govt. Titumir College, National University (2012)
-- **BBS** in Accounting – Govt. Titumir College, National University (2011)
-- **HSC** in Business Studies – Dhaka Imperial College, Dhaka Board (2006)
-- **SSC** in Science – Majlishpur High School, Dhaka Board (2004)
+
 
 ---
 
@@ -80,15 +54,7 @@ Developed ERP software, created documentation, and conducted testing.
 
 - **Bangla** - Native  
 - **English** - Professional working proficiency  
-
 ---
-
-## 📇 References
-
-- **Golam Rahman Matin**  
-  Database Administrator, IT Consultants Limited  
-  📧 [matin0843@gmail.com](mailto:matin0843@gmail.com) | 📞 +8801816362874
-
 - **Md. Sanaullah Asif**  
   Team Lead, ShurjoMukhi Limited  
   📧 [asif@shurjomukhi.com.bd ](mailto:asif@shurjomukhi.com.bd) | 📞 +8801818482731
